@@ -7,7 +7,7 @@
 ## Instruções:
 
 1. Faça o download do kit;
-2. Implemente o HTML/CSS do layout contido no arquivo <i>codificação.psd</i>;
+2. Implemente o HTML/CSS do layout contido no arquivo <i>[challange-frontend.rar](http://agenciapresenca.com.br/download_files/challange-frontend.rar)</i>;
 3. Movimente o bloco de banners para acima da vitrine utilizando JavaScript (jQuery);
 5. Após terminar seu teste envie o mesmo para erick@agenciapresenca.com.br.
 
