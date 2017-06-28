@@ -1,5 +1,5 @@
 # Teste para candidatos à vaga de estágio em Front-End developer
-> [![Logo Presenca](http://agenciapresenca.com.br/wp-content/uploads/Presen%C3%A7a-Logo.png =200x93)](https://www.agenciapresenca.com.br)
+> [![Logo Presenca](http://agenciapresenca.com.br/wp-content/uploads/Presen%C3%A7a-Logo.png=200x93)](https://www.agenciapresenca.com.br)
 >
 > Essa prova consiste em testar seus conhecimentos com <b>HTML, CSS, JavaScript</b> entre outras coisas. <br>
 > O conjunto de testes disponibilizado tem o prazo de <b>1 dia</b> para ser executado;
