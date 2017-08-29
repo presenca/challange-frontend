@@ -19,6 +19,7 @@
 
 * Desenvolver HTML semântico;
 * Componentizar seu CSS;
+* Utilizar algum pre-processador CSS (SASS/LESS);
 * Ser fiel as especificações dos arquivos;
 
 **Boa sorte! =D**
